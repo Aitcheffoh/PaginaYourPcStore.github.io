@@ -1,0 +1,55 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+.contenido{
+  width: 100%;
+  height: 100vh;
+  background: black;
+}
+.opciones {
+  position: absolute;
+  background-color: black;
+  border: 1px solid #6D4DA7;
+  border-style: solid;
+  width: 100%;
+  height: 100%;
+}
+.caja1{
+  width: 20%;
+  height: 100%;
+  position:fixed;
+}
+.sidebar {
+  margin: 0;
+  padding: 0;
+  width: 20%;
+  background-color: black;
+  position: fixed;
+  height: 100%;
+  overflow: auto;
+}
+.sidebar a {
+  display: block;
+  color: #6D4DA7;
+  padding: 16px;
+  text-align: center;
+  text-decoration: none;
+  border:5px solid #6D4DA7 ;
+  border-top: 0px;
+}
+.sidebar a:hover{
+  background-color:#6D4DA7 ;
+  color: white;
+}
+.caja2{
+  width:80% ;
+  height: 157%;
+  background:black;
+  float: right;
+}
+.oboard {
+  color: #6D4DA7;
+  width: 100%;
+  height: 100%;
+}
