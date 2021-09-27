@@ -1,0 +1,21 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+.contenedor{
+	width: 100%;
+	height: 200vh;
+	background: black;
+}
+.caja{
+	width:23%;
+	height:45vh;
+	background: white;
+	float: left;
+	border: 1px solid red;
+	margin-left: 1.6%;
+	margin-top: 2%;
+	background-image: url(../img/motherboard.jpg);
+	background-size: 130%;
+}

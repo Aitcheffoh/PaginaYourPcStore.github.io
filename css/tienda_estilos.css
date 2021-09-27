@@ -85,6 +85,7 @@ li a:hover {
   text-align: center;
   text-decoration: none;
   border-bottom: 1px solid white;
+  border-right: 1px solid white;
 }
 .sidebar a:hover{
   background-color:#6D4DA7 ;
